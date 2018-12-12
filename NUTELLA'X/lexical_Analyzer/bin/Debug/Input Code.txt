@@ -1,0 +1,5 @@
+MAIN()
+{
+int_num @a_=$@frac_():
+}
+END()

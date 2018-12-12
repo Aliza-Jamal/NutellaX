@@ -1,0 +1,25 @@
+c:\users\a.basit\documents\visual studio 2010\Projects\lexical_Analyzer\lexical_Analyzer\bin\Debug\lexical_Analyzer.exe
+c:\users\a.basit\documents\visual studio 2010\Projects\lexical_Analyzer\lexical_Analyzer\bin\Debug\lexical_Analyzer.pdb
+c:\users\a.basit\documents\visual studio 2010\Projects\lexical_Analyzer\lexical_Analyzer\obj\x86\Debug\lexical_Analyzer.exe
+c:\users\a.basit\documents\visual studio 2010\Projects\lexical_Analyzer\lexical_Analyzer\obj\x86\Debug\lexical_Analyzer.pdb
+D:\lexical_Analyzer\lexical_Analyzer\obj\x86\Debug\lexical_Analyzer.exe
+D:\lexical_Analyzer\lexical_Analyzer\obj\x86\Debug\lexical_Analyzer.pdb
+D:\lexical_Analyzer\lexical_Analyzer\bin\Debug\lexical_Analyzer.exe
+D:\lexical_Analyzer\lexical_Analyzer\bin\Debug\lexical_Analyzer.pdb
+F:\lexical_Analyzer\lexical_Analyzer\obj\x86\Debug\lexical_Analyzer.exe
+F:\lexical_Analyzer\lexical_Analyzer\obj\x86\Debug\lexical_Analyzer.pdb
+F:\lexical_Analyzer\lexical_Analyzer\bin\Debug\lexical_Analyzer.exe
+F:\lexical_Analyzer\lexical_Analyzer\bin\Debug\lexical_Analyzer.pdb
+E:\work\lexical_Analyzer\lexical_Analyzer\obj\x86\Debug\lexical_Analyzer.exe
+E:\work\lexical_Analyzer\lexical_Analyzer\obj\x86\Debug\lexical_Analyzer.pdb
+E:\work\lexical_Analyzer\lexical_Analyzer\bin\Debug\lexical_Analyzer.exe
+E:\work\lexical_Analyzer\lexical_Analyzer\bin\Debug\lexical_Analyzer.pdb
+E:\work\lexical_Analyzer_complete\lexical_Analyzer\obj\x86\Debug\lexical_Analyzer.exe
+E:\work\lexical_Analyzer_complete\lexical_Analyzer\obj\x86\Debug\lexical_Analyzer.pdb
+E:\work\lexical_Analyzer_complete\lexical_Analyzer\bin\Debug\lexical_Analyzer.exe
+E:\work\lexical_Analyzer_complete\lexical_Analyzer\bin\Debug\lexical_Analyzer.pdb
+E:\work\CC\lexical_Analyzer_complete\lexical_Analyzer\obj\x86\Debug\lexical_Analyzer.exe
+E:\work\CC\lexical_Analyzer_complete\lexical_Analyzer\obj\x86\Debug\lexical_Analyzer.pdb
+E:\work\CC\lexical_Analyzer_complete\lexical_Analyzer\bin\Debug\lexical_Analyzer.exe
+E:\work\CC\lexical_Analyzer_complete\lexical_Analyzer\bin\Debug\lexical_Analyzer.pdb
+E:\work\CC\lexical_Analyzer_complete\lexical_Analyzer\obj\x86\Debug\lexical_Analyzer.csprojResolveAssemblyReference.cache
